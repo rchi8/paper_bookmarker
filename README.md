@@ -3,7 +3,10 @@
 # 概要
 paper_bookmarkerは、arxiv APIを利用したシンプルな論文検索＆ブックマークアプリケーションです。このアプリケーションを使用することで、興味のある論文を検索し、ブックマークして管理することができます。また、ブックマーク内の論文を検索したり、コメントを追加したりすることも可能です。
 
-![Uploading demo_pb.gif…]()
+
+
+https://github.com/ryohei8/paper_bookmarker/assets/131762035/c3a8c363-5af1-4b83-ba9f-625c899e2efd
+
 
 
 # 主な機能
